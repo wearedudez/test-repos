@@ -1,7 +1,7 @@
 _G.Color = Color3.fromRGB(66, 135, 245)
 _G.Color2 = Color3.fromRGB(66, 135, 245)
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/slightten/ui-libs/main/funni"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/wearedudez/test-repos/main/lib"))()
 local window = library:CreateWindow("ouwHub", Enum.KeyCode.RightControl)
 local tab1 = window:CreateTab("Main")
 local tab2 = window:CreateTab("Misc")
